@@ -6,6 +6,8 @@ This template repository is the starter project for Programming Patterns Lab 16.
 
 1. Create a GUI application about a Hospital Management system and implement the MVC pattern. In addition, impelement two other design pattern of your choice.
 
+Implement Internationalization (I18n) in the solution as well.
+
 ### Setup Command
 
 `gradle clean`
